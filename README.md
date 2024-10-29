@@ -2,7 +2,7 @@
 
 🚀 Infra Managed Services Senior Analyst @ Accenture, Hyderabad
 
-🔧 Middleware Expertise: Oracle WebLogic, Apache, F5 Big-IP LTM, Payara, Microsoft IIS, Nagios Monitoring
+🔧 Middleware Expertise: Oracle WebLogic, Apache, F5 Big-IP LTM, Payara-4/5, Microsoft IIS, Nagios Monitoring
 
 ☁️ AWS & DevOps Skills: Git/GitHub, Maven, SonarQube, Jenkins, Docker, Shell Scripting
 
