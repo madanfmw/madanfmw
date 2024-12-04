@@ -4,7 +4,7 @@
 
 🔧 Middleware Expertise: Oracle WebLogic, Apache, F5 Big-IP LTM, Payara-4/5, Microsoft IIS, Nagios Monitoring, Service-Now & BMC Remedy Ticketing Tool
 
-☁️ AWS & DevOps Skills: Git/GitHub, Maven, SonarQube, Jenkins, Docker, Shell Scripting
+☁️ AWS & DevOps Skills: Git/GitHub, Maven, SonarQube, Jenkins, Docker, Shell Scripting, Kubernates, JFrog Artifactory, Jira Confluence
 
 📜 Certifications: OCI AI Foundation Associate, Oracle Cloud Infrastructure Associate Architect, ITIL4, Scrum Fundamentals
 
